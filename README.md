@@ -31,4 +31,7 @@ export default i18n;
 ```
 
 ###
+
 # Traducci-n-Autom-tica
+
+Este Proyecto aun no esta listo, ya que no funciona intentere otros metodos, cuando tenga conocimiento mas profundo de Node.js
